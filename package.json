@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress-real-events": "^1.15.0"
+  },
+  "scripts": {
+    "test:all": "npx cypress run --headed chrome"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
